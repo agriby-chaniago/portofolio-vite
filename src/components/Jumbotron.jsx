@@ -26,4 +26,3 @@ export const Jumbotron = () => (
     </div>
   </section>
 );
-// lalala
